@@ -1,0 +1,39 @@
+{
+  "eslint.format.enable": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.validate": ["typescript"],
+  "cSpell.language": "en,cs",
+  "cSpell.words": [
+    "apexcharts",
+    "flagcdn",
+    "geolocation",
+    "muni",
+    "nextjs",
+    "openweathermap",
+    "PPLA",
+    "PPLC",
+    "searchbar",
+    "takehome",
+    "treemap",
+    "Unstyled",
+    "xaxis",
+    "yaxis"
+  ]
+}
