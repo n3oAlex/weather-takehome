@@ -16,7 +16,7 @@ const t = defineTranslations(
   "weatherContext"
 );
 
-const API_KEY = "7a6f4e87b4df38965a2e5a324adff539";
+const API_KEY = "OPEN_WEATHER_MAP_API_KEY";
 
 const useValue = () => {
   const [position, setPosition] = useState<[number, number] | null>(null);
