@@ -15,7 +15,6 @@
     "removeComments": true,
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": false,
-    "keyofStringsOnly": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
